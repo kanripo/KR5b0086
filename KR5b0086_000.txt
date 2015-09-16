@@ -1,0 +1,8 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 太上黃庭内景玉經
+#+DATE: 2015-08-28 23:49:14
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: JUAN 0
+
+
